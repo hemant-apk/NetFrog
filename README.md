@@ -13,5 +13,8 @@ install speedtest Module by pip using :
 pip install speedtest-cli
 
 
+only works on windows
+
+
 
 
